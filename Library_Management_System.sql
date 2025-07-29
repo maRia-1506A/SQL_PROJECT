@@ -77,19 +77,3 @@ WHERE AuthorID= (
 	SELECT AuthorID FROM Author
     WHERE AuthorName= "John Steinbeck"
 );
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
